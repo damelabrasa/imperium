@@ -1,0 +1,14 @@
+Leyenda:
+* Elemento de trabajo.
+/../.. Ruta del archivo
++ -> Pendiente de hacer
+- -> Pendiente de eliminar
+@ Revisar funcionamiento
+
+* Base de datos
+
+
+* Clases
+/admin/core/objects/Concepto.js
+    + Crear control de longitud del código del concepto.
+    + Crear control de longitud del resumen del concepto.
